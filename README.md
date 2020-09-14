@@ -1,7 +1,7 @@
 ### common-western-modes
 A simple selection of the absolute most fundamental Western musical modes.
 
-###contents
+### contents
 the 7 diatonic modes:
 1. Lydian
 2. Ionian
@@ -13,5 +13,5 @@ the 7 diatonic modes:
 
 8. The pythagorean pentatonic scale
 
-###made by [alliums](https://github.com/alliums)
+### made by [alliums](https://github.com/alliums)
 more modes in the same format available on my github.
