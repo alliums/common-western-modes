@@ -1,0 +1,11 @@
+! pentatonic-scale.scl
+!
+the pentatonic scale as derived using Pythagoras' method of octaves and perfect fifths
+ 5
+!
+ 9/8
+ 4/3
+ 3/2
+ 16/9
+ 2/1
+
