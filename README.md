@@ -23,5 +23,3 @@ ratios for the diatonics from [Bruce Olson](https://www.csufresno.edu/folklore/O
 
 ### made by [alliums](https://github.com/alliums)
 more modes in the same format available on my github.
-
-
