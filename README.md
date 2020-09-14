@@ -19,7 +19,7 @@ this project is still under development. I plan to expand this pack with a few m
 these may have minor inaccuracies in tuning. I plan to scrutinize these much more heavily in the future, and ensure that the ratios are optimized.
 
 ### credits
-ratios from [Bruce Olson](https://www.csufresno.edu/folklore/Olson/JUSTINT.HTM). Thank you, Dr. Olson.
+ratios for the diatonics from [Bruce Olson](https://www.csufresno.edu/folklore/Olson/JUSTINT.HTM). Thank you, Dr. Olson.
 
 ### made by [alliums](https://github.com/alliums)
 more modes in the same format available on my github.
