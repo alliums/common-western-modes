@@ -1,5 +1,5 @@
 ### common-western-modes
-A simple selection of the absolute most fundamental Western musical modes.
+A simple selection of the absolute most fundamental Western musical modes in .scl format.
 Currently has the 7 diatonic modes and 1 pentatonic scale.
 
 ### contents
